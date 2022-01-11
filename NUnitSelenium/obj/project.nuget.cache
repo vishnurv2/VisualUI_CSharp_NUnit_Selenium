@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0z5OjM/eg3lIetN4K6GUcVV0FzV/VaUM38A4v1twziGBwcTbc0qE7sZ6G9vN3LZ0W6RYCIsw8HH/dWKKG2bNag==",
+  "success": true,
+  "projectFilePath": "D:\\Test Suites\\Dotlapse\\CSharp-NUnit-Selenium\\NUnitSelenium\\NUnitSelenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lattitude3410\\.nuget\\packages\\nunit\\3.8.1\\nunit.3.8.1.nupkg.sha512",
+    "C:\\Users\\Lattitude3410\\.nuget\\packages\\nunit3testadapter\\3.8.0\\nunit3testadapter.3.8.0.nupkg.sha512",
+    "C:\\Users\\Lattitude3410\\.nuget\\packages\\selenium.rc\\3.1.0\\selenium.rc.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lattitude3410\\.nuget\\packages\\selenium.support\\3.5.2\\selenium.support.3.5.2.nupkg.sha512",
+    "C:\\Users\\Lattitude3410\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Lattitude3410\\.nuget\\packages\\selenium.webdriverbackedselenium\\3.5.2\\selenium.webdriverbackedselenium.3.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Test Suites\\Dotlapse\\CSharp-NUnit-Selenium\\NUnitSelenium\\NUnitSelenium.csproj": {}
+  },
+  "projects": {
+    "D:\\Test Suites\\Dotlapse\\CSharp-NUnit-Selenium\\NUnitSelenium\\NUnitSelenium.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Suites\\Dotlapse\\CSharp-NUnit-Selenium\\NUnitSelenium\\NUnitSelenium.csproj",
+        "projectName": "NUnitSelenium",
+        "projectPath": "D:\\Test Suites\\Dotlapse\\CSharp-NUnit-Selenium\\NUnitSelenium\\NUnitSelenium.csproj",
+        "packagesPath": "C:\\Users\\Lattitude3410\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Suites\\Dotlapse\\CSharp-NUnit-Selenium\\NUnitSelenium\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Lattitude3410\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Selenium.RC": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriverBackedSelenium": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
